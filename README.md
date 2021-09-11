@@ -2,4 +2,6 @@
 
 ![](https://komarev.com/ghpvc/?username=naikyding&color=blue)
 
+### Languages and Tools:
+
 ![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=naikyding&theme=github_dark&show_icons=true)
