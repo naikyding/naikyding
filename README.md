@@ -7,6 +7,11 @@
 <div size='20px'> Hi! My name is Naiky. Thank You for taking the time to view my GitHub Profile :smile: 
 </div>
 
+
+[CV](https://bit.ly/naiky-cv-2022)
+、
+[Docs99](https://bit.ly/docs_99)
+
 ## Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 
