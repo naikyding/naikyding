@@ -2,10 +2,9 @@
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=naikyding&color=blue)
-
 </p>
-<div size='20px'> Hi! My name is Naiky. Thank You for taking the time to view my GitHub Profile :smile: 
-</div>
+
+Hi! My name is Naiky. Thank You for taking the time to view my GitHub Profile :smile: 
 
 - 👔 [CV](https://bit.ly/naiky-cv-2022)
 - 📚 Docs [Docs99](https://bit.ly/docs_99)
