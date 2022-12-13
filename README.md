@@ -2,6 +2,7 @@
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=naikyding&color=blue)
+![](https://img.shields.io/badge/Updated-20221213-yellow)
 
 <a href="https://www.linkedin.com/in/naikyding"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"></a>
 <a href="https://www.cakeresume.com/naikyding"><img width="30" src="https://media.cakeresume.com/image/upload/s--4m_QpqJA--/c_pad,fl_png8,h_400,w_400/v1586508643/page_2_logo_1468389599.png"></a>
