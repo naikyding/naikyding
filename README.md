@@ -14,11 +14,6 @@ Hi! My name is Naiky. Thank You for taking the time to view my GitHub Profile :s
 - 📚 Docs [Docs99](https://bit.ly/docs_99)
 - 📫 How to reach me [74ding@gmail.com](mailto:74ding@gmail.com)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naikyding&theme=default)
-
-![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naikyding&theme=default)
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naikyding&theme=default&utcOffset=8)
-
 ## Languages and Tools: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
@@ -42,3 +37,8 @@ Hi! My name is Naiky. Thank You for taking the time to view my GitHub Profile :s
 ![](https://img.shields.io/badge/Docker-2CA5E0?style=for-the-badge&logo=docker&logoColor=white)
 ![](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)
 ![](https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=naikyding&theme=default)
+
+![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naikyding&theme=default)
+![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naikyding&theme=default&utcOffset=8)
