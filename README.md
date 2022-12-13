@@ -2,6 +2,10 @@
 <p align='center'>
 
 ![](https://komarev.com/ghpvc/?username=naikyding&color=blue)
+
+<a href="https://www.linkedin.com/in/naikyding"><img width="30" src="https://upload.wikimedia.org/wikipedia/commons/thumb/c/ca/LinkedIn_logo_initials.png/480px-LinkedIn_logo_initials.png"></a>
+<a href="https://www.cakeresume.com/naikyding"><img width="30" src="https://media.cakeresume.com/image/upload/s--4m_QpqJA--/c_pad,fl_png8,h_400,w_400/v1586508643/page_2_logo_1468389599.png"></a>
+
 </p>
 
 Hi! My name is Naiky. Thank You for taking the time to view my GitHub Profile :smile: 
@@ -15,8 +19,7 @@ Hi! My name is Naiky. Thank You for taking the time to view my GitHub Profile :s
 ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=naikyding&theme=default)
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=naikyding&theme=default&utcOffset=8)
 
-
-## Languages and Tools: <img src = "https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
+## Languages and Tools: <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width = 32px>
 
 ![](https://img.shields.io/badge/VSCode-0078D4?style=for-the-badge&logo=visual%20studio%20code&logoColor=white)
 
